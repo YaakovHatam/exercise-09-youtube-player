@@ -35,9 +35,33 @@ An HTML page should be built that is divided into 3 parts, one side part will co
 
 ---------------------
 
-**Local storage API** - When the user moves an item to his playlist, the user's playlist in Local storage needs to be updated.
+**Web storage API** - Local storage, When the user moves an item to his playlist, the user's playlist in Local storage needs to be updated.
 When the page is reloaded, the user's playlist must be loaded from the Local storage into the appropriate place.
 
 [MDN Web_Storage_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+
+---------------------
+
+**History API** - When a user clicks on a song from his playlist, the hash of the address bar should be put / replaced so that it contains the id of the song being clicked.
+
+[MDN History_API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
+
+---------------------
+
+**Location API** - When a user clicks on a song from his playlist, the hash of the address bar should be put / replaced so that it contains the id of the song being clicked.
+
+[MDN Location](https://developer.mozilla.org/en-US/docs/Web/API/Location)
+
+---------------------
+
+**Page visibility API** - When a user navigates outside the tab the player must be paused.
+
+[MDN Page_Visibility_API](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
+
+---------------------
+
+**HTMLElement API** - dataset, 
+
+[MDN HTMLElement/dataset](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset)
 
 ---------------------
