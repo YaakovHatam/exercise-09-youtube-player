@@ -1,0 +1,24 @@
+body {
+   width: 80%;
+   margin: 30px auto;
+}
+
+.player-app {
+   display: flex;
+}
+
+.available-songs,
+.user-playlist {
+   flex: 0 0 20%;
+}
+
+.player-container {
+   flex: 0 0 60%;
+   text-align: center;
+}
+
+.song-item {
+   padding: 10px;
+   margin: 10px;
+   border: 1px solid black
+}
