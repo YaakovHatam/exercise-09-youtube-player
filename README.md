@@ -18,6 +18,12 @@ JavaScript, HTML5 APIs, CSS.
 ## Initial files
 `songs.json` - Contains a list of songs that the user can add to his playlist
 
+`youtube.css` - basic style
+
+`youtube.js` - JavaScript API to load the YouTube player
+
+`youtube.html` - first HTML skeleton
+
 ## Exercise instructions
 An HTML page should be built that is divided into 3 parts, one side part will contain a list of songs that can be added to the user's playlist, a second side part will contain the list of songs that the user added to his playlist, the main part (which is also between the other two side parts) will contain the media player.
 
