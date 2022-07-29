@@ -15,6 +15,9 @@ Build a media player, which plays songs from Youtube using the youtube embed (if
 ## The knowledge required to solve the exercise
 JavaScript, HTML5 APIs, CSS.
 
+## Mockup
+![Example of the page](https://github.com/YaakovHatam/exercise-12-youtube-playlist-app/blob/master/youtube-app.png?raw=true)
+
 ## Initial files
 `songs.json` - Contains a list of songs that the user can add to his playlist
 
